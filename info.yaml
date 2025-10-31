@@ -26,8 +26,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
+  uo[0]: "t1 and"
+  uo[1]: "t1 and 2"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""

@@ -15,5 +15,5 @@ It works
 We just run it.
 
 ## External hardware
-
+Can be anything.
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
